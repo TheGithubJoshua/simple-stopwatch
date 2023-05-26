@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f40c812a-2741-4de5-a24a-9999fb2b87c7"
+      }
+    },
+    "owner": "joshuaexpo1"
   }
 }
