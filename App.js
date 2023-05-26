@@ -27,7 +27,7 @@ const App = () => {
     <SafeAreaView style={styles.container}>
       <View style={styles.container}>
         <Text style={styles.title}>
-          Example of React Native Timer and Stopwatch
+         (Very) Simple Stopwatch
         </Text>
         <View style={styles.sectionStyle}>
           <Stopwatch
@@ -95,7 +95,7 @@ const styles = StyleSheet.create({
 
 const options = {
   container: {
-    backgroundColor: '#FF0000',
+    backgroundColor: '#000000',
     padding: 5,
     borderRadius: 5,
     width: 200,
